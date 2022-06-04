@@ -1,0 +1,108 @@
+
+/* CSS Document | tharindu on the web 2012 | CSS by Tharindu Randika */
+/* File name : style.min.css */
+
+
+/* Main page */
+	
+	/*==============Body==================*/
+
+ 	body{
+	/*margin-top: 0px;
+	margin-right: 150px;
+	margin-bottom: 20px;
+	margin-left: 15%;
+	margin-right: 15%;*/
+	
+      }
+
+	#page{background:#fff;
+	width: 100%;
+	/*max-width: 700px;
+	min-width: 700px;*/} 
+	
+	  
+	a:link {
+	text-decoration: none;
+	}
+	a:visited {
+	text-decoration: none;
+	}
+	a:hover {
+	text-decoration: none;
+	}
+	a:active {
+	text-decoration: none;
+	}
+	h1{font-size:48px;}
+	
+
+
+
+	/*Special styles for text*/
+
+
+	.small{font-size:15px;
+	}
+	.titledec{font-size:30;
+	}
+	.righttext{text-align:right;
+	}
+	.centertext{text-align:center;
+	}
+	.red{color:#ff0000;
+	}
+
+
+
+	/*===============Header================*/
+
+header {position:fixed; top:0;height:150px; background:#fff; z-index:99;}
+
+	#header_c { display:block; height:75px; width:100%; margin:auto; }
+
+	/*Navigation panel*/
+
+.nav {margin:0;
+	Font-weight:bold;
+	color:#FF0000;
+	text-align:right}
+
+.nav a{	height:2em;
+	background:#dfdfdf;
+	color:#000;}
+
+.nav a:link {color:#FF0000;
+	text-decoration: none;}
+
+.nav a:visited {color:#FF0000;
+	text-decoration: none;}
+
+.nav a:hover{
+	background:#4a98af;
+	color:#FF0000;
+	text-decoration: none;}
+
+	/*=============content box===========*/
+
+.box1{text-align:left;
+	text-decoration: none;
+	width:100%;
+	background-color:#f1f1f1; 
+		}
+.box1 a{color:#ff0000;
+	text-decoration: none;}
+
+.box {text-align:left;
+	text-decoration: none;
+	width:700px;
+	background-color:#DFDFDF;
+    right:150;	}
+
+
+	
+
+/*End of CSS doc*/
+/*==End Notes==*/
+/*Please don't copy ,redistribute or resell this CSS document*/
+/* Copyright(c)2012 Tharindu Randika.All right reserved *//*CSS by Tharindu*/

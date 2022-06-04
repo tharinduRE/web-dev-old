@@ -1,0 +1,31 @@
+
+page{background-color:#d4d4d4;
+background-position:center;
+margin-top: 25px;}
+  
+inner { background-color:#FFFFFF;
+background-position:center;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-top: 25px;
+	margin-bottom: 20px;
+	width:80%;
+	
+	  }
+    a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+	}
+.box{
+	text-decoration: none;
+	width:700px;
+	background-color:#DFDFDF
+}
